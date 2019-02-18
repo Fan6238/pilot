@@ -18,12 +18,12 @@
 <string>display-image</string>
 <key>url</key>
 <string>https://raw.githubusercontent.com/Fan6238/pilot/master/display-57.png</string>
+</dict>
 <dict>
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
 <string>https://raw.githubusercontent.com/Fan6238/pilot/master/fullsize-512.png</string>
-</dict>
 </dict>
 </array>
 <key>metadata</key>
